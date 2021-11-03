@@ -1,0 +1,4 @@
+- git status   
+- git add *
+- git commit -m "updae 描述"
+- git push -u origin master (git push -f origin master)//强制上传
